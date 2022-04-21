@@ -2,11 +2,11 @@
   
 ## 👩🏻 &nbsp; Sobre mim
 
-- 👩🏻‍🔬 Atualmente em transição de carreira e iniciando na área de tecnologia;
-- 👩🏻‍💻 Estudando Desenvolvimento Web na [One Bit Code](https://programador.onebitcode.com/);
+- 👩🏻‍🔬 Atualmente em transição de carreira e iniciando na área de tecnologia.
+- 👩🏻‍💻 Estudando Desenvolvimento Web na [One Bit Code](https://programador.onebitcode.com/).
 - 🎮 Meus hobbies são ler, cozinhar e assistir séries.
 - 💬 Pergunte-me sobre qualquer coisa, estou à disposição.
-- 📬 Entre em contato: []()
+- 📬 Entre em contato: [Social Links](https://github.com/byohira#social-links).
   
 <br>
 
