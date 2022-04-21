@@ -1,4 +1,4 @@
-# Bem-vindo(a)! 🎆 Meu nome é Bianca Yumi Ohira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<h1>Bem-vindo(a)! 🎆 Meu nome é Bianca Yumi Ohira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
   
 ## 👩🏻 &nbsp; Sobre mim
 
@@ -7,7 +7,7 @@
 - 🎮 Meus hobbies são ler, cozinhar e assistir séries.
 - 💬 Pergunte-me sobre qualquer coisa, estou à disposição.
 - 📬 Entre em contato: []()
-
+  
 <br>
 
 ## 🛠 &nbsp;Tecnologias que domino
@@ -32,3 +32,12 @@ src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logo
 
 <br>
 
+## &nbsp;Social Links
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancayumiohira/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byohira@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byohira_dev/)
+  
+</div>
