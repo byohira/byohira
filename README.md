@@ -1,4 +1,10 @@
-### Hi there 👋
+### Bem-vindo(a)! 🎆 Meu nome é Bianca Yumi Ohira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> 
+
+#### ***Sobre mim:***
+
+- 👩🏻‍🔬 Atualmente em transição de carreira e iniciando na área de tecnologia;
+- 👩🏻‍💻 Estudando Desenvolvimento Web na [One Bit Code](https://programador.onebitcode.com/);
+- 
 
 <!--
 **byohira/byohira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
